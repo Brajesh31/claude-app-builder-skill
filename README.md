@@ -26,3 +26,7 @@ Keep the first release narrow. Prioritize a usable core workflow over a long fea
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Supporting resources
+
+This repository now includes project-detection, tech-stack, agent-coordination, scaffolding, and feature-building guides, plus a template selector and 12 project templates under `templates/`. Read only the template matching the application type and adapt it to the existing repository and current framework versions.
